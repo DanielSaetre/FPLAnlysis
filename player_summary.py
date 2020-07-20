@@ -7,6 +7,10 @@ import requests
 from datetime import datetime
 import json
 
+def get(url):
+    response = requests.get(url)
+    return json.loads(response.content)
+
 #### Getting player summary data
 def get_player_summary(player_id):
     url = 'https://fantasy.premierleague.com/api/element-summary/' + str(player_id) + '/' 
