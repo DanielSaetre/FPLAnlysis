@@ -1,0 +1,23 @@
+Fantasy Premier League API:
+
+GW:
+https://fantasy.premierleague.com/api/event/[Gameweek]/live/
+
+Player (Mahrez: 176):
+https://fantasy.premierleague.com/api/element-summary/[Player ID]/
+
+Team, Player, Element:
+https://fantasy.premierleague.com/api/bootstrap-static/
+
+My team (Daniel Sætre: 204252):
+https://fantasy.premierleague.com/api/entry/[Team ID]/
+
+Classic League (Tikka Mo Salah: 541194):
+https://fantasy.premierleague.com/api/leagues-classic/[League ID]/standings/
+
+Fixture:
+https://fantasy.premierleague.com/api/fixtures/
+
+Photos of players(Mustafi: 69140):
+https://resources.premierleague.com/premierleague/photos/players/110x140/p[photoID].png
+
